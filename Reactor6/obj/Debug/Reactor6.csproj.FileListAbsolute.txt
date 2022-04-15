@@ -1,0 +1,10 @@
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\Reactor1\Reactor6\bin\Debug\Reactor6.exe.config
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\Reactor1\Reactor6\bin\Debug\Reactor6.exe
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\Reactor1\Reactor6\bin\Debug\Reactor6.pdb
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\Reactor1\Reactor6\bin\Debug\ZedGraph.dll
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\Reactor1\Reactor6\obj\Debug\Reactor6.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\Reactor1\Reactor6\obj\Debug\Reactor6.Form1.resources
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\Reactor1\Reactor6\obj\Debug\Reactor6.Properties.Resources.resources
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\Reactor1\Reactor6\obj\Debug\Reactor6.csproj.GenerateResource.Cache
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\Reactor1\Reactor6\obj\Debug\Reactor6.exe
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\Reactor1\Reactor6\obj\Debug\Reactor6.pdb
