@@ -1,0 +1,9 @@
+D:\Маг2\Диплом\Reactor1-6-master\Reactor1-6-master\Example1_DZ\bin\Debug\Example1_DZ.exe.config
+D:\Маг2\Диплом\Reactor1-6-master\Reactor1-6-master\Example1_DZ\bin\Debug\Example1_DZ.exe
+D:\Маг2\Диплом\Reactor1-6-master\Reactor1-6-master\Example1_DZ\bin\Debug\Example1_DZ.pdb
+D:\Маг2\Диплом\Reactor1-6-master\Reactor1-6-master\Example1_DZ\obj\Debug\Example1_DZ.csprojResolveAssemblyReference.cache
+D:\Маг2\Диплом\Reactor1-6-master\Reactor1-6-master\Example1_DZ\obj\Debug\Example1_DZ.Form1.resources
+D:\Маг2\Диплом\Reactor1-6-master\Reactor1-6-master\Example1_DZ\obj\Debug\Example1_DZ.Properties.Resources.resources
+D:\Маг2\Диплом\Reactor1-6-master\Reactor1-6-master\Example1_DZ\obj\Debug\Example1_DZ.csproj.GenerateResource.Cache
+D:\Маг2\Диплом\Reactor1-6-master\Reactor1-6-master\Example1_DZ\obj\Debug\Example1_DZ.exe
+D:\Маг2\Диплом\Reactor1-6-master\Reactor1-6-master\Example1_DZ\obj\Debug\Example1_DZ.pdb

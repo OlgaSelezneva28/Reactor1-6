@@ -1,0 +1,19 @@
+c:\users\acer\documents\visual studio 2012\Projects\Reactor1\Reactor1\bin\Debug\Reactor1.exe.config
+c:\users\acer\documents\visual studio 2012\Projects\Reactor1\Reactor1\bin\Debug\Reactor1.exe
+c:\users\acer\documents\visual studio 2012\Projects\Reactor1\Reactor1\bin\Debug\Reactor1.pdb
+c:\users\acer\documents\visual studio 2012\Projects\Reactor1\Reactor1\obj\Debug\Reactor1.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2012\Projects\Reactor1\Reactor1\obj\Debug\Reactor1.Form1.resources
+c:\users\acer\documents\visual studio 2012\Projects\Reactor1\Reactor1\obj\Debug\Reactor1.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2012\Projects\Reactor1\Reactor1\obj\Debug\Reactor1.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2012\Projects\Reactor1\Reactor1\obj\Debug\Reactor1.exe
+c:\users\acer\documents\visual studio 2012\Projects\Reactor1\Reactor1\obj\Debug\Reactor1.pdb
+c:\users\acer\documents\visual studio 2012\Projects\Reactor1\Reactor1\bin\Debug\ZedGraph.dll
+D:\Маг2\Диплом\Reactor1-6-master\Reactor1-6-master\Reactor1\bin\Debug\Reactor1.exe.config
+D:\Маг2\Диплом\Reactor1-6-master\Reactor1-6-master\Reactor1\obj\Debug\Reactor1.exe
+D:\Маг2\Диплом\Reactor1-6-master\Reactor1-6-master\Reactor1\obj\Debug\Reactor1.pdb
+D:\Маг2\Диплом\Reactor1-6-master\Reactor1-6-master\Reactor1\bin\Debug\Reactor1.exe
+D:\Маг2\Диплом\Reactor1-6-master\Reactor1-6-master\Reactor1\bin\Debug\Reactor1.pdb
+D:\Маг2\Диплом\Reactor1-6-master\Reactor1-6-master\Reactor1\obj\Debug\Reactor1.csprojResolveAssemblyReference.cache
+D:\Маг2\Диплом\Reactor1-6-master\Reactor1-6-master\Reactor1\obj\Debug\Reactor1.Form1.resources
+D:\Маг2\Диплом\Reactor1-6-master\Reactor1-6-master\Reactor1\obj\Debug\Reactor1.Properties.Resources.resources
+D:\Маг2\Диплом\Reactor1-6-master\Reactor1-6-master\Reactor1\obj\Debug\Reactor1.csproj.GenerateResource.Cache

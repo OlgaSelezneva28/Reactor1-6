@@ -1,0 +1,19 @@
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\Reactor1\Reactor6\bin\Debug\Reactor6.exe.config
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\Reactor1\Reactor6\bin\Debug\Reactor6.exe
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\Reactor1\Reactor6\bin\Debug\Reactor6.pdb
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\Reactor1\Reactor6\bin\Debug\ZedGraph.dll
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\Reactor1\Reactor6\obj\Debug\Reactor6.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\Reactor1\Reactor6\obj\Debug\Reactor6.Form1.resources
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\Reactor1\Reactor6\obj\Debug\Reactor6.Properties.Resources.resources
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\Reactor1\Reactor6\obj\Debug\Reactor6.csproj.GenerateResource.Cache
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\Reactor1\Reactor6\obj\Debug\Reactor6.exe
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\Reactor1\Reactor6\obj\Debug\Reactor6.pdb
+d:\Маг2\Диплом\Reactor1-6-master\Reactor1-6-master\Reactor6\bin\Debug\Reactor6.exe.config
+d:\Маг2\Диплом\Reactor1-6-master\Reactor1-6-master\Reactor6\bin\Debug\Reactor6.exe
+d:\Маг2\Диплом\Reactor1-6-master\Reactor1-6-master\Reactor6\bin\Debug\Reactor6.pdb
+d:\Маг2\Диплом\Reactor1-6-master\Reactor1-6-master\Reactor6\obj\Debug\Reactor6.csprojResolveAssemblyReference.cache
+d:\Маг2\Диплом\Reactor1-6-master\Reactor1-6-master\Reactor6\obj\Debug\Reactor6.Form1.resources
+d:\Маг2\Диплом\Reactor1-6-master\Reactor1-6-master\Reactor6\obj\Debug\Reactor6.Properties.Resources.resources
+d:\Маг2\Диплом\Reactor1-6-master\Reactor1-6-master\Reactor6\obj\Debug\Reactor6.csproj.GenerateResource.Cache
+d:\Маг2\Диплом\Reactor1-6-master\Reactor1-6-master\Reactor6\obj\Debug\Reactor6.exe
+d:\Маг2\Диплом\Reactor1-6-master\Reactor1-6-master\Reactor6\obj\Debug\Reactor6.pdb
